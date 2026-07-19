@@ -1,33 +1,33 @@
 # Hi, I’m Dragoș 👋
 
 I'm a junior software developer based in Bucharest, focused on TypeScript,
-Node.js, PostgreSQL, and SQL.
+Node.js, PostgreSQL, and Oracle SQL.
 
 I enjoy building reliable, well-documented systems, especially interactive
 products and games where technical architecture and user experience meet.
 
 ## Featured work
 
-- [No-go Inflation](https://github.com/RipplyPear/no-go-inflation) —
+- [No-go Inflation](https://github.com/RipplyPear/no-go-inflation) -
   a real-time multiplayer economic strategy game with a Godot client,
   authoritative TypeScript server, WebSockets, PostgreSQL, automated tests,
   Docker, and CI.
 
-- [Oracle Online Banking Database](https://github.com/RipplyPear/oracle-online-banking-database) —
+- [Oracle Online Banking Database](https://github.com/RipplyPear/oracle-online-banking-database)  -
   transactional PL/SQL services, analytical SQL, automated tests, and a
   reproducible Oracle environment.
 
-- [Floor Decor](https://github.com/RipplyPear/floor-decor) —
-  a responsive Jekyll website developed and deployed for a Romanian
-  interior-finishing business.
-
-- [Customer Profitability Dashboard](https://github.com/RipplyPear/power-bi-client-profitability) —
+- [Customer Profitability Dashboard](https://github.com/RipplyPear/power-bi-client-profitability)  -
   an interactive Power BI portfolio project using DAX, Power Query,
   dimensional modeling, and reproducible synthetic data.
 
-- [HealthyTurtle](https://github.com/RipplyPear/healthy-turtle) —
+- [HealthyTurtle](https://github.com/RipplyPear/healthy-turtle)  -
   a privacy-first Manifest V3 Chrome extension built with TypeScript,
   Romanian-aware rule-based matching, synchronized preferences, automated tests, and CI.
+
+- [Floor Decor](https://github.com/RipplyPear/floor-decor)  -
+  a responsive Jekyll website developed and deployed for a Romanian
+  interior-finishing business.
 
 ## Currently
 
