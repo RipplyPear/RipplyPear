@@ -25,6 +25,10 @@ products and games where technical architecture and user experience meet.
   an interactive Power BI portfolio project using DAX, Power Query,
   dimensional modeling, and reproducible synthetic data.
 
+- [HealthyTurtle](https://github.com/RipplyPear/healthy-turtle) —
+  a privacy-first Manifest V3 Chrome extension built with TypeScript,
+  Romanian-aware rule-based matching, synchronized preferences, automated tests, and CI.
+
 ## Currently
 
 I'm completing a BSc in Economic Informatics at the Bucharest University of
