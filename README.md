@@ -33,5 +33,3 @@ backend, or database roles. I'm also open to strong internship opportunities.
 
 Outside of code, I enjoy designing TTRPG campaigns, studying game systems,
 filmmaking, and story-driven games.
-
-[LinkedIn](https://www.linkedin.com/in/dragos-matei-mincinoiu)
