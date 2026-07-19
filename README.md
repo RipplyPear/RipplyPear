@@ -8,7 +8,7 @@ products and games where technical architecture and user experience meet.
 
 ## Featured work
 
-- [No-go Inflation](https://github.com/RipplyPear/2d-collaborative-game) —
+- [No-go Inflation](https://github.com/RipplyPear/no-go-inflation) —
   a real-time multiplayer economic strategy game with a Godot client,
   authoritative TypeScript server, WebSockets, PostgreSQL, automated tests,
   Docker, and CI.
