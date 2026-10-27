@@ -1,39 +1,36 @@
-# Hi, I’m Dragoș 👋
+# Hi, I'm Dragoș 👋
 
-I'm a junior software developer based in Bucharest, focused on TypeScript,
-Node.js, PostgreSQL, and Oracle SQL.
+Junior software developer based in Bucharest, Romania, working with
+TypeScript, JavaScript, Node.js, PostgreSQL, and Oracle SQL.
 
-I enjoy building reliable, well-documented systems, especially interactive
-products and games where technical architecture and user experience meet.
+I enjoy building interactive applications and understanding the systems
+behind them, from browser extensions to multiplayer games and databases.
 
-## Featured work
+[LinkedIn](https://www.linkedin.com/in/dragos-matei-mincinoiu) ·
+[Email](mailto:mincinoium@gmail.com)
 
-- [No-go Inflation](https://github.com/RipplyPear/no-go-inflation) -
-  a real-time multiplayer economic strategy game with a Godot client,
-  authoritative TypeScript server, WebSockets, PostgreSQL, automated tests,
-  Docker, and CI.
+## Selected projects
 
-- [Oracle Online Banking Database](https://github.com/RipplyPear/oracle-online-banking-database)  -
-  transactional PL/SQL services, analytical SQL, automated tests, and a
-  reproducible Oracle environment.
+| Project | What I built |
+| --- | --- |
+| [No-go Inflation](https://github.com/RipplyPear/no-go-inflation) · [Video demo](https://www.youtube.com/watch?v=NpRHOrQSMNo) | Multiplayer economic strategy game with a Godot client, authoritative TypeScript server, WebSockets, and PostgreSQL. |
+| [HealthyTurtle](https://github.com/RipplyPear/healthy-turtle) · [Latest release](https://github.com/RipplyPear/healthy-turtle/releases/latest) | TypeScript Chrome extension that analyses Freshful ingredient lists locally using configurable dietary preferences. |
+| [Oracle Online Banking Database](https://github.com/RipplyPear/oracle-online-banking-database) | Transactional PL/SQL services, integrity constraints, analytical SQL, rollback-based tests, and a reproducible Docker environment. |
+| [Floor Decor](https://github.com/RipplyPear/floor-decor) · [Live website](https://floordecor.ro/) | Responsive Jekyll website developed and deployed for a Romanian interior-finishing business. |
+| [Customer Profitability Dashboard](https://github.com/RipplyPear/power-bi-client-profitability) | Power BI report using Power Query, DAX, dimensional modelling, and reproducible synthetic banking data. |
+| [EU Insights Dashboard](https://github.com/RipplyPear/eu-insights-dashboard) · [Live demo](https://ripplypear.github.io/eu-insights-dashboard/) | Interactive Eurostat visualisations built with vanilla JavaScript, SVG, and Canvas, including a bundled data fallback. |
 
-- [Customer Profitability Dashboard](https://github.com/RipplyPear/power-bi-client-profitability)  -
-  an interactive Power BI portfolio project using DAX, Power Query,
-  dimensional modeling, and reproducible synthetic data.
+## Background
 
-- [HealthyTurtle](https://github.com/RipplyPear/healthy-turtle)  -
-  a privacy-first Manifest V3 Chrome extension built with TypeScript,
-  Romanian-aware rule-based matching, synchronized preferences, automated tests, and CI.
+- BSc in Economic Informatics at ASE Bucharest, in progress.
+  Expected graduation: July 2027.
+- Business Intelligence internship at BCR in April 2025, contributing
+  Power Query transformations, DAX measures, and report visuals
+  within a six-person team.
 
-- [Floor Decor](https://github.com/RipplyPear/floor-decor)  -
-  a responsive Jekyll website developed and deployed for a Romanian
-  interior-finishing business.
+## Opportunities
 
-## Currently
+Available for full-time junior software development roles and paid
+internships. Also interested in BI and software testing opportunities.
 
-I'm completing a BSc in Economic Informatics at the Bucharest University of
-Economic Studies and am available for full-time junior software development,
-backend, or database roles. I'm also open to strong internship opportunities.
-
-Outside of code, I enjoy designing TTRPG campaigns, studying game systems,
-filmmaking, and story-driven games.
+Outside programming, I enjoy TTRPG design, filmmaking, and story-driven games.
