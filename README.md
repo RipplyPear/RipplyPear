@@ -11,7 +11,7 @@ behind them, from browser extensions to multiplayer games and databases.
 
 ## Selected projects
 
-| Project | What I built |
+| Project | Description |
 | --- | --- |
 | [No-go Inflation](https://github.com/RipplyPear/no-go-inflation) · [Video demo](https://www.youtube.com/watch?v=NpRHOrQSMNo) | Multiplayer economic strategy game with a Godot client, authoritative TypeScript server, WebSockets, and PostgreSQL. |
 | [HealthyTurtle](https://github.com/RipplyPear/healthy-turtle) · [Latest release](https://github.com/RipplyPear/healthy-turtle/releases/latest) | TypeScript Chrome extension that analyses Freshful ingredient lists locally using configurable dietary preferences. |
